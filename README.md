@@ -1,15 +1,25 @@
 <h1 align="center">Hi there👋, I am Prakruti Pathak</h1>
-<h3 align="center">A CSE Student exploring new skills</h3>
+<h3 align="center">A Software Engineer working with .NET , Angular, AWS & Azure</h3>
 <img align="right" alt="Coding" width="400" src="https://connect.ignatiuz.com/hs-fs/hubfs/AI%20and%20Deep%20Learning.gif?width=1500&name=AI%20and%20Deep%20Learning.gif">
 
 **About Me**
-- I’m currently learning **Deep Learning, Computer Vision, Machine Learning**
-- I'm currently working on different projects 
-- Learning new Technologies and using it to create something creative is my passion.
-- My Portfolio https://prakrutipathak.netlify.app/
+- I’m currently working as a **Software Engineer** specializing in **.NET , Angular, AWS, and Azure**.
+- Passionate about building scalable and efficient applications using cutting-edge technologies.
+- Always learning and exploring new tools to enhance software development and cloud solutions.
 
 **📫 How to reach me**
-- prakrutipathak10@gmail.com
+- Email: [prakrutipathak10@gmail.com](mailto:prakrutipathak10@gmail.com)
+
+
+
+**Technologies & Tools:**
+- **Languages**: C#, JavaScript, TypeScript, SQL
+- **Frameworks**: .NET Core,.Net Framework, Angular, Node.js
+- **Cloud Platforms**: AWS, Microsoft Azure
+- **Databases**: SQL Server, MySQL, MongoDB
+- **Version Control**: Git, GitHub, GitLab
+- **CI/CD**:Azure DevOps
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
